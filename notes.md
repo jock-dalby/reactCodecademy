@@ -84,7 +84,7 @@ var panda = <img src="images/panda.jpg" alt="panda" width="500px" height="500px"
 
 You can nest JSX elements inside of other JSX elements, just like in HTML.
 
-Here's an example of a JSX <h1> element, nested inside of a JSX <a> element:
+Here's an example of a JSX h1 element, nested inside of a JSX <a> element:
 ```javascript
 <a href="https://www.google.net"><h1>Click me I am Google</h1></a>
 ```
