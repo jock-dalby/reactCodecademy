@@ -140,7 +140,7 @@ The first opening tag and the final closing tag of a JSX expression must belong 
 
 It's easy to forget about this rule, and end up with errors that are tough to diagnose.
 
-If you notice that a JSX expression has multiple outer elements, the solution is usually simple: wrap the JSX expression in a <div></div>.
+If you notice that a JSX expression has multiple outer elements, the solution is usually simple: wrap the JSX expression in a div.
 
 ---- Rendering JSX ------
 
